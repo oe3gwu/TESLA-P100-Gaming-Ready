@@ -11,7 +11,7 @@ The P100 is a graphics card with computing power close to that of the 1080, whic
 
 ## Pros and Cons
 * Pros
-  * Large memory capacity (24GB)
+  * Large anf fast memory capacity (16GB HBM2)
   * Relatively low price
   * Suitable for AI training
 * Cons
