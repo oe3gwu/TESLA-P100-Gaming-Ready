@@ -71,6 +71,8 @@ Add Dword:
 
 ![regit](image/regit.png)
 
+Do the same for ```HKEY_LOCAL_MACHINE\SYSTEM\ControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318} ```
+
 After modifying the registry, you can choose to restart or disable and enable P100 in the device manager to see that P100 has been successfully called in the Task Manager.
 
 ![task_manager](image/task_manage.png)
