@@ -1,4 +1,4 @@
-English
+English | [繁體中文](README_TCH.md)
 # How to Use Tesla P100
 A guide to help you use the Tesla P100. The author encountered many problems during the installation of the P100, which is why they wrote this installation guide. Hopefully, it can help users who want to use the P100.
 
