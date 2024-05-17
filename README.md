@@ -1,13 +1,12 @@
-English | [繁體中文](README_TCH.md)
 # How to Use Tesla P100
 A guide to help you use the Tesla P100. The author encountered many problems during the installation of the P100, which is why they wrote this installation guide. Hopefully, it can help users who want to use the P100.
 
-  ![P100](image/P100.png)
+  ![P40](image/P100.png)
 
 ## Why Choose P100?
 The P100 is a graphics card with computing power close to that of the 1080, which is not particularly remarkable, but it has 24GB of memory, which is a level that is difficult for most consumer cards on the market to reach. Although the computing power itself may not keep up with the times, it is a highly recommended entry-level card for AI training and use due to its low price and cost-effective memory, which can support most AI models provided online.
 
-![P100_data](image/P100_data.png)
+![P40_data](image/P100_data.png)
 
 ## Pros and Cons
 * Pros
